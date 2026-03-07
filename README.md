@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Jakub Pondo (`sieciowiec.xyz`).
+Hi, I'm Jakub Pondo.
 
 I build secure Linux platforms, backend systems, and cloud-native infrastructure with a focus on reliability, reproducibility, and security.
 
@@ -24,7 +24,7 @@ My background is in Linux platform architecture, systems security, infrastructur
 - Reproducible builds and image-based delivery
 - Security hardening and trusted provisioning
 - Backend systems, internal tools, and web interfaces
-- AI infrastructure, LLM processing, and MCP servers
+- AI infrastructure, LLM agents automation, and MCP servers
 
 ## Stack
 
@@ -35,9 +35,4 @@ My background is in Linux platform architecture, systems security, infrastructur
 | Cloud / Infra | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat-square&logo=ovh&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white) ![KVM/QEMU](https://img.shields.io/badge/-KVM%2FQEMU-FF6600?style=flat-square&logo=proxmox&logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![NVIDIA vGPU](https://img.shields.io/badge/-NVIDIA%20vGPU-76B900?style=flat-square&logo=nvidia&logoColor=white) ![IaC](https://img.shields.io/badge/-IaC-2563EB?style=flat-square&logo=terraform&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 | Security | ![SELinux](https://img.shields.io/badge/-SELinux-6B7280?style=flat-square&logo=redhat&logoColor=white) ![LUKS](https://img.shields.io/badge/-LUKS-111827?style=flat-square&logo=linuxfoundation&logoColor=white) ![Hardening](https://img.shields.io/badge/-Hardening-1F2937?style=flat-square&logo=letsencrypt&logoColor=white) ![Secure Provisioning](https://img.shields.io/badge/-Secure%20Provisioning-0F766E?style=flat-square&logo=securityscorecard&logoColor=white) ![Supply Chain Control](https://img.shields.io/badge/-Supply%20Chain-7C3AED?style=flat-square&logo=snyk&logoColor=white) |
 | Backend / Web | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-0EA5E9?style=flat-square&logo=openapiinitiative&logoColor=white) ![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white) ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) |
-| AI / ML | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Dataset Pipelines](https://img.shields.io/badge/-Dataset%20Pipelines-0369A1?style=flat-square&logo=dagster&logoColor=white) ![Inference Services](https://img.shields.io/badge/-Inference%20Services-DC2626?style=flat-square&logo=ray&logoColor=white) ![LLM Processing](https://img.shields.io/badge/-LLM%20Processing-4F46E5?style=flat-square&logo=ollama&logoColor=white) ![MCP Servers](https://img.shields.io/badge/-MCP%20Servers-0F172A?style=flat-square&logo=protocolsdotio&logoColor=white) |
-
-## Links
-
-- Website: https://sieciowiec.xyz
-- GitHub: https://github.com/sieciowiecxyz
+| AI / ML | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Dataset Pipelines](https://img.shields.io/badge/-Dataset%20Pipelines-0369A1?style=flat-square&logo=dagster&logoColor=white) ![Inference Services](https://img.shields.io/badge/-Inference%20Services-DC2626?style=flat-square&logo=ray&logoColor=white) ![LLM Agents Automation](https://img.shields.io/badge/-LLM%20Agents%20Automation-4F46E5?style=flat-square&logo=ollama&logoColor=white) ![MCP Servers](https://img.shields.io/badge/-MCP%20Servers-0F172A?style=flat-square&logo=protocolsdotio&logoColor=white) |
